@@ -1,2 +1,1 @@
-test
-tst2
+print("bye")
